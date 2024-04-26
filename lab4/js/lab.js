@@ -1,21 +1,22 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - To 
+// Author: Viona Lei
+// Date:4/23/24
 
-// Constants
+// How to Clean a Bathroom
+  // Locate supplies
+  // If you have all the supplies, proceed to the Bathroom
+  // Set up supplies
+  // Clean objects starting from the objects highest in the room to objects bottom of the room
+    // If done cleaning, check cleanliness.
+      // If cleanliness does not pass, loop back to step 4.
+    // Return the supplies
 
-// Functions
 
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
-
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
-
-// let's get this party started
-main();
+// Rock Paper Scissors game
+  // Display valid options for the user to pick.
+  // Accept user input
+  // The computer chooses an option at “random”
+  // Test win condition or draw condition
+    // If user or computer won, print winner
+      // End Game
+    // If draw, loop back to first step
